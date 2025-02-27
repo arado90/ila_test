@@ -1,0 +1,191 @@
+[
+  {
+    "id": 1,
+    "firstName": "Mohamed",
+    "lastName": "Ahmed",
+    "dateOfBirth": "2000-01-01",
+    "salary": "1000",
+    "department": "IT",
+    "joinDate": "2023-05-18"
+  },
+  {
+    "id": 2,
+    "firstName": "Salman",
+    "lastName": "Ebrahim",
+    "dateOfBirth": "1990-01-01",
+    "salary": "2000",
+    "department": "Business",
+    "joinDate": "2016-03-18"
+  },
+  {
+    "id": 3,
+    "firstName": "Fatima",
+    "lastName": "Hassan",
+    "dateOfBirth": "1995-05-15",
+    "salary": "2500",
+    "department": "HR",
+    "joinDate": "2020-08-10"
+  },
+  {
+    "id": 4,
+    "firstName": "Ali",
+    "lastName": "Mahmoud",
+    "dateOfBirth": "1988-07-22",
+    "salary": "3000",
+    "department": "Finance",
+    "joinDate": "2015-04-05"
+  },
+  {
+    "id": 5,
+    "firstName": "Aisha",
+    "lastName": "Khalid",
+    "dateOfBirth": "1992-11-30",
+    "salary": "3500",
+    "department": "Marketing",
+    "joinDate": "2018-09-12"
+  },
+  {
+    "id": 6,
+    "firstName": "Omar",
+    "lastName": "Abdullah",
+    "dateOfBirth": "1985-03-14",
+    "salary": "4000",
+    "department": "Sales",
+    "joinDate": "2010-07-01"
+  },
+  {
+    "id": 7,
+    "firstName": "Layla",
+    "lastName": "Youssef",
+    "dateOfBirth": "1998-09-05",
+    "salary": "4500",
+    "department": "Engineering",
+    "joinDate": "2021-12-25"
+  },
+  {
+    "id": 8,
+    "firstName": "Yousef",
+    "lastName": "Ibrahim",
+    "dateOfBirth": "1975-04-18",
+    "salary": "5000",
+    "department": "Support",
+    "joinDate": "2005-06-15"
+  },
+  {
+    "id": 9,
+    "firstName": "Noura",
+    "lastName": "Al-Mansoori",
+    "dateOfBirth": "1991-08-09",
+    "salary": "1500",
+    "department": "Business",
+    "joinDate": "2017-02-28"
+  },
+  {
+    "id": 10,
+    "firstName": "Khalid",
+    "lastName": "Rashid",
+    "dateOfBirth": "1980-12-03",
+    "salary": "5500",
+    "department": "IT",
+    "joinDate": "2019-10-11"
+  },
+  {
+    "id": 11,
+    "firstName": "Sara",
+    "lastName": "Al-Farsi",
+    "dateOfBirth": "1997-06-20",
+    "salary": "2000",
+    "department": "HR",
+    "joinDate": "2022-04-07"
+  },
+  {
+    "id": 12,
+    "firstName": "Tariq",
+    "lastName": "Nasser",
+    "dateOfBirth": "1983-10-17",
+    "salary": "3000",
+    "department": "Finance",
+    "joinDate": "2014-11-19"
+  },
+  {
+    "id": 13,
+    "firstName": "Huda",
+    "lastName": "Saleh",
+    "dateOfBirth": "1994-02-28",
+    "salary": "3500",
+    "department": "Marketing",
+    "joinDate": "2020-03-03"
+  },
+  {
+    "id": 14,
+    "firstName": "Faisal",
+    "lastName": "Al-Jaber",
+    "dateOfBirth": "1979-07-12",
+    "salary": "4000",
+    "department": "Sales",
+    "joinDate": "2013-08-22"
+  },
+  {
+    "id": 15,
+    "firstName": "Mariam",
+    "lastName": "Karim",
+    "dateOfBirth": "1987-01-25",
+    "salary": "4500",
+    "department": "Engineering",
+    "joinDate": "2016-05-14"
+  },
+  {
+    "id": 16,
+    "firstName": "Rashid",
+    "lastName": "Al-Mazroui",
+    "dateOfBirth": "1993-04-08",
+    "salary": "5000",
+    "department": "Support",
+    "joinDate": "2023-01-09"
+  },
+  {
+    "id": 17,
+    "firstName": "Amira",
+    "lastName": "Zayed",
+    "dateOfBirth": "1999-08-14",
+    "salary": "1500",
+    "department": "Business",
+    "joinDate": "2022-07-30"
+  },
+  {
+    "id": 18,
+    "firstName": "Hamad",
+    "lastName": "Al-Suwaidi",
+    "dateOfBirth": "1982-05-06",
+    "salary": "5500",
+    "department": "IT",
+    "joinDate": "2011-09-17"
+  },
+  {
+    "id": 19,
+    "firstName": "Leila",
+    "lastName": "Al-Mehairi",
+    "dateOfBirth": "1996-03-19",
+    "salary": "2000",
+    "department": "HR",
+    "joinDate": "2021-10-05"
+  },
+  {
+    "id": 20,
+    "firstName": "Abdul",
+    "lastName": "Rahman",
+    "dateOfBirth": "1984-11-11",
+    "salary": "3000",
+    "department": "Finance",
+    "joinDate": "2012-12-01"
+  },
+  {
+    "id": 21,
+    "firstName": "Ahmed",
+    "lastName": "Mohsin",
+    "dateOfBirth": "1989-01-02",
+    "salary": "1400",
+    "department": "IT",
+    "joinDate": "2025-02-20"
+  }
+]
